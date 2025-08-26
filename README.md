@@ -613,6 +613,10 @@ You can find an opml file to import rss feeds here: [engineering_blogs.opml](./e
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+# Subscriptions
+
+Feel free to subscribe to the feeds with https://onesearch.blog (work in progress to add all the feeds).
+
 # License
 
 Licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
